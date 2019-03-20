@@ -22,7 +22,7 @@ to close any of the currently opened sockets.
 Getting started
 ---------------
 
- *  [Read the guide](http://ninenines.eu/docs/en/ranch/HEAD/guide/introduction)
+ *  [Read the guide](https://ninenines.eu/docs/en/ranch/HEAD/guide/introduction)
  *  Look at the examples in the `examples/` directory
  *  Build API documentation with `make docs`; open `doc/index.html`
 
@@ -30,5 +30,5 @@ Support
 -------
 
  *  Official IRC Channel: #ninenines on irc.freenode.net
- *  [Mailing Lists](http://lists.ninenines.eu)
- *  [Commercial Support](http://ninenines.eu/support)
+ *  [Mailing Lists](https://lists.ninenines.eu)
+ *  [Commercial Support](https://ninenines.eu/support)
